@@ -1,4 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdarg.h>
+#include <string.h>
+#include <limits.h>
+#include <unistd.h>
 #include "main.h"
+
 /**
  * handle_print - Prints an argument based on its type
  * @fmt: Formatted string in which to print the arguments.

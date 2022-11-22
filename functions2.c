@@ -1,3 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdarg.h>
+#include <string.h>
+#include <limits.h>
+#include <unistd.h>
 #include "main.h"
 
 /****************** PRINT POINTER ******************/
